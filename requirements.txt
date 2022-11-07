@@ -1,0 +1,6 @@
+streamlit
+websockets
+asyncio
+pyaudio
+openai
+pathlib
