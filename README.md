@@ -4,15 +4,14 @@ How to build a real time Speech-To-Image Web App using AssemblyAI and DALL.E by 
 
 ## Step 1: Obtain the API Keys
 
-1. Obtain the AssemblyAI API key
+1. Obtain the AssemblyAI API key by signing up [here](https://www.assemblyai.com/)
 
-   Obtaining the AssemblyAI API key
    Getting access to the AssemblyAI API is extremely simple and starts with a free registration with AssemblyAI.
    Next, after logging in to your account, you will find the `API key` on the right hand panel. Copy and Save it somewhere
 
    Note: YOU WILL HAVE TO UPGRADE YOUR AssemblyAI ACCOUNT TO BE ABLE TO USE THE REAL-TIME TRANSCRIPTON FEATURE. MAKE SURE YOU HAVE AT LEAST $5 TO SPARE
    
-2. Obtain the OpenAI API Key
+2. Obtain the OpenAI API Key by signing up [here](https://openai.com/)
 
 
 ## Step 2: Create a new python environment and then download the Github Repo
